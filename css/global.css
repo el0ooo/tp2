@@ -28,7 +28,6 @@ header{
     align-items: center;
     -webkit-border-radius: 0 0 25px 25px;
     border-radius: 0 0 25px 25px;
-    zindex: 10;
 }
 
 #globale{
@@ -238,7 +237,7 @@ h1:hover{
     height:65vh;
 }
 
-#arriereVideo p{
+#arriereVideo h5{
     font-size: 1.5em;
     padding-bottom: 5px;
 }
@@ -246,6 +245,10 @@ h1:hover{
 video{
     height: 51vh;
     width: 65vw;
+}
+
+#arriereVideo p{
+    font-size: 0.8em;
 }
 
 /*section des articles*/
