@@ -28,6 +28,7 @@ header{
     align-items: center;
     -webkit-border-radius: 0 0 25px 25px;
     border-radius: 0 0 25px 25px;
+    zindex: 10;
 }
 
 #globale{
